@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T03:37:08.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="5FLvPI02I1UwcE_YHLXa" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-06T03:42:06.455Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="jPaHq9sdM1FZMaJnmK9e" version="18.0.0" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1857" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -189,10 +189,10 @@
         <mxCell id="MG-eNMXlgoUWeHQS30Ld-71" value="Web Client" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#000000;" vertex="1" parent="MG-eNMXlgoUWeHQS30Ld-88">
           <mxGeometry width="470" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="MG-eNMXlgoUWeHQS30Ld-72" value="web client" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;strokeColor=#000000;" vertex="1" parent="MG-eNMXlgoUWeHQS30Ld-88">
+        <mxCell id="MG-eNMXlgoUWeHQS30Ld-72" value="React SPA" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;strokeColor=#000000;" vertex="1" parent="MG-eNMXlgoUWeHQS30Ld-88">
           <mxGeometry x="175" y="50" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MG-eNMXlgoUWeHQS30Ld-73" value="htmx.min.js" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=default;" vertex="1" parent="MG-eNMXlgoUWeHQS30Ld-88">
+        <mxCell id="MG-eNMXlgoUWeHQS30Ld-73" value="React.js" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=default;" vertex="1" parent="MG-eNMXlgoUWeHQS30Ld-88">
           <mxGeometry x="66.19047619047615" y="150.00230769230757" width="115.23809523809524" height="44.230769230769226" as="geometry" />
         </mxCell>
         <mxCell id="MG-eNMXlgoUWeHQS30Ld-74" value="Custom Behavior" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=default;" vertex="1" parent="MG-eNMXlgoUWeHQS30Ld-88">
