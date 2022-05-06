@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T03:33:35.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="9rVOfUPvdChepaUI9mKM" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-06T03:34:21.182Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="25mtMCByKOM7TAGRNORI" version="18.0.0" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1857" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -37,9 +37,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MG-eNMXlgoUWeHQS30Ld-84" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="10" y="310" width="420" height="260" as="geometry" />
+          <mxGeometry x="10" y="340" width="420" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="39150e848f15840c-3" value="App Version: React Native" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="MG-eNMXlgoUWeHQS30Ld-84" vertex="1">
+        <mxCell id="39150e848f15840c-3" value="React Native" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="MG-eNMXlgoUWeHQS30Ld-84" vertex="1">
           <mxGeometry width="420" height="260" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-10" value="Hyperview Client" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="MG-eNMXlgoUWeHQS30Ld-84" vertex="1">
@@ -255,6 +255,9 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MG-eNMXlgoUWeHQS30Ld-97" value="&lt;font&gt;App Version&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
