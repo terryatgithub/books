@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T03:39:07.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="5dddL6S_qUTcGH1egVbg" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T03:40:52.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="ulXStJLMziQ6YYuMPi8g" version="17.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1916" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,6 +265,9 @@
               <mxPoint x="1229" y="970" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-267" value="the flow to add a dependency to wealth-sdk" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#294CFF;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="20" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
