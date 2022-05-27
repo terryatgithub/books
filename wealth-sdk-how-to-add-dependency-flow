@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T03:35:21.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="ZICSHmkhVn_yZV2KYwIO" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T03:35:48.188Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="5abVziGvZO5sxWIKtfka" version="17.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1236" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,7 +165,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-221" value="add to:&lt;br&gt;1. wealth-sdk/package.json&lt;br&gt;peerDependencies&lt;br&gt;devDependencies&lt;br&gt;&lt;br&gt;2. host application/package.json&lt;br&gt;dependencies&lt;br&gt;&lt;br&gt;[Pulse Only] add manual link code according to Pulse readme instructions" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" vertex="1" parent="LGrMN6ZznI9nsSQWbyZY-229">
-          <mxGeometry y="377" width="210" height="162.5" as="geometry" />
+          <mxGeometry y="377" width="210" height="173" as="geometry" />
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-222" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="LGrMN6ZznI9nsSQWbyZY-229">
           <mxGeometry x="226" y="589.5" width="40" height="40" as="geometry" />
