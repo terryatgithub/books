@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T03:43:30.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="ejToon8LkEfO8Miw0fh5" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T05:03:41.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="kLIk6-EIq9PHonOaBAJ6" version="17.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1916" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -26,22 +26,19 @@
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-132" value="start to add a new dependency&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="454.5" y="70" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-234" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1F1FFF;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-133">
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-273" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-133">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="185" y="360" as="targetPoint" />
+            <mxPoint x="185" y="532.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-133" value="web only" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="125" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-138" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;(use the same version with Pulse)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95.5" y="490" width="210" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-256" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-140" target="LGrMN6ZznI9nsSQWbyZY-255">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-140" value="add to:&lt;br&gt;dependencies" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="549" y="642.5" width="100" height="47.5" as="geometry" />
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-140" value="add to:&lt;br&gt;wealth-sdk:&amp;nbsp;dependencies" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="508.5" y="637.5" width="181.5" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-148" value="N" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="549" y="448.75" width="40" height="26.25" as="geometry" />
@@ -64,15 +61,16 @@
             <mxPoint x="599" y="499.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-258" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=blockThin;endFill=1;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-259" target="LGrMN6ZznI9nsSQWbyZY-257">
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-258" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=blockThin;endFill=1;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LGrMN6ZznI9nsSQWbyZY-257">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="767" y="970" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="767" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-175" value="&lt;span style=&quot;text-align: left&quot;&gt;add to:&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;peerDependencies&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="707" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-175" value="&lt;span style=&quot;&quot;&gt;add to:&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;wealth-sdk:peerDependencies&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="707" y="633.75" width="173" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-254" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-183" target="LGrMN6ZznI9nsSQWbyZY-253">
           <mxGeometry relative="1" as="geometry">
@@ -81,14 +79,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-183" value="&lt;span style=&quot;&quot;&gt;add to:&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. wealth-sdk/package.json&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;peerDependencies&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. host application/package.json&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;dependencies&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;[Pulse Only] add manual link code accroding to Pulse readme instructions&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="637.5" width="210" height="162.5" as="geometry" />
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-183" value="&lt;span&gt;add to:&lt;/span&gt;&lt;br&gt;&lt;span&gt;1. wealth-sdk:&amp;nbsp;&lt;/span&gt;&lt;span&gt;peerDependencies&lt;/span&gt;&lt;br&gt;&lt;span&gt;2. wealth-sdk-app:&amp;nbsp;&lt;/span&gt;&lt;span&gt;dependencies&lt;/span&gt;&lt;br&gt;3. one-pulse-app:&amp;nbsp;dependencies&lt;br&gt;&lt;span&gt;4. [Pulse Only] add manual link code accroding to Pulse readme instructions&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="637.5" width="210" height="112.5" as="geometry" />
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-192" value="N" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="549" y="587.5" width="40" height="26.25" as="geometry" />
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-269" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=blockThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-197" target="LGrMN6ZznI9nsSQWbyZY-268">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-269" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=blockThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-197">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="391" />
+              <mxPoint x="790" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-197" value="&lt;span&gt;check if&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#1f1fff&quot;&gt;Pulse/dependencies&amp;nbsp;&lt;/font&gt;&lt;span&gt;has &lt;br&gt;this dependency already?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="479" y="351.25" width="241" height="79.75" as="geometry" />
@@ -105,11 +109,11 @@
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-205" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="375" y="613.755" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-229" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="920" y="250" width="537" height="639.5" as="geometry" />
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-229" value="" style="group;align=left;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="250" width="580" height="639.5" as="geometry" />
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-208" value="add to:&lt;br&gt;dependencies" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="LGrMN6ZznI9nsSQWbyZY-229">
-          <mxGeometry x="259" y="382" width="100" height="47.5" as="geometry" />
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-208" value="add to:&lt;br&gt;wealth-sdk: dependencies" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="LGrMN6ZznI9nsSQWbyZY-229">
+          <mxGeometry x="234" y="382" width="151" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-209" value="N" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="LGrMN6ZznI9nsSQWbyZY-229">
           <mxGeometry x="259" y="188.25" width="40" height="26.25" as="geometry" />
@@ -129,11 +133,11 @@
             <mxPoint x="309" y="238.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-217" value="&lt;span style=&quot;text-align: left&quot;&gt;add to:&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;peerDependencies&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;devDependencies&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="LGrMN6ZznI9nsSQWbyZY-229">
-          <mxGeometry x="417" y="382" width="120" height="60" as="geometry" />
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-217" value="&lt;span style=&quot;&quot;&gt;add to:&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;wealth-sdk: peerDependencies&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;devDependencies&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" vertex="1" parent="LGrMN6ZznI9nsSQWbyZY-229">
+          <mxGeometry x="417" y="382" width="123" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-221" value="add to:&lt;br&gt;1. wealth-sdk/package.json&lt;br&gt;peerDependencies&lt;br&gt;devDependencies&lt;br&gt;&lt;br&gt;2. host application/package.json&lt;br&gt;dependencies&lt;br&gt;&lt;br&gt;[Pulse Only] add manual link code according to Pulse readme instructions" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" vertex="1" parent="LGrMN6ZznI9nsSQWbyZY-229">
-          <mxGeometry y="377" width="210" height="173" as="geometry" />
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-221" value="add to:&lt;br&gt;1. wealth-sdk:&lt;br&gt;peerDependencies&lt;br&gt;devDependencies&lt;br&gt;2. wealth-sdk-app: dependencies&lt;br&gt;3. one-pulse-app:&amp;nbsp;dependencies&lt;br&gt;4. [Pulse Only] add manual link code according to Pulse readme instructions" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;align=left;" vertex="1" parent="LGrMN6ZznI9nsSQWbyZY-229">
+          <mxGeometry y="377" width="220" height="133" as="geometry" />
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-223" value="N" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="LGrMN6ZznI9nsSQWbyZY-229">
           <mxGeometry x="259" y="327" width="40" height="26.25" as="geometry" />
@@ -168,15 +172,6 @@
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=blockThin;endFill=1;" edge="1" parent="LGrMN6ZznI9nsSQWbyZY-229" source="LGrMN6ZznI9nsSQWbyZY-224" target="LGrMN6ZznI9nsSQWbyZY-270">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-236" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1F1FFF;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-231" target="LGrMN6ZznI9nsSQWbyZY-235">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-238" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1F1FFF;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-231" target="LGrMN6ZznI9nsSQWbyZY-237">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-231" value="&lt;span&gt;check if&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#1f1fff&quot;&gt;Pulse/dependencies&amp;nbsp;&lt;/font&gt;&lt;span&gt;has &lt;br&gt;this dependency already?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="64.5" y="359.5" width="241" height="79.75" as="geometry" />
-        </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1F1FFF;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-235" target="LGrMN6ZznI9nsSQWbyZY-242">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -184,26 +179,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-235" value="&lt;span style=&quot;text-align: left&quot;&gt;add to:&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;devDependencies&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="125" y="529.125" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1F1FFF;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-237" target="LGrMN6ZznI9nsSQWbyZY-235">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-237" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="538.995" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-240" value="Y" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="453.75" width="40" height="26.25" as="geometry" />
-        </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-241" value="N" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="413" width="40" height="26.25" as="geometry" />
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-235" value="&lt;span&gt;add to:&lt;br&gt;&lt;/span&gt;wealth-sdk:&amp;nbsp;&lt;span&gt;devDependencies&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="527.5" width="185" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-242" value="done" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="539.5" y="939.9950000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-244" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;(use the same version with Pulse)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="596" width="210" height="30" as="geometry" />
+          <mxGeometry x="710" y="600" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-246" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="579.5" y="240" width="40" height="40" as="geometry" />
@@ -220,21 +203,21 @@
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-257" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="949.99" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-260" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-221" target="LGrMN6ZznI9nsSQWbyZY-259">
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-260" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-221">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="767" y="970" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1025" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-259" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="747" y="950" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=none;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-175" target="LGrMN6ZznI9nsSQWbyZY-259">
+        <mxCell id="LGrMN6ZznI9nsSQWbyZY-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#294CFF;endArrow=none;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LGrMN6ZznI9nsSQWbyZY-175">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="767.0476190476188" y="499.25" as="sourcePoint" />
-            <mxPoint x="660" y="969.9899999999998" as="targetPoint" />
-            <Array as="points" />
+            <mxPoint x="767" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="789" y="970" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-262" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -267,9 +250,6 @@
         </mxCell>
         <mxCell id="LGrMN6ZznI9nsSQWbyZY-267" value="the flow to add a dependency to wealth-sdk" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#294CFF;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="20" width="310" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LGrMN6ZznI9nsSQWbyZY-268" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="747" y="609.995" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
