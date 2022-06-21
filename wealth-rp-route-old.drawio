@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T03:42:36.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="lg6UEF6cjXsma9xxs8Pc" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T03:50:36.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="uZoBkCDQzfB7Z42uNHPf" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2603" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,8 +104,16 @@
         <mxCell id="ASFFez9ZujurtMkVOaM4-25" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;onBoardingNavigator&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-28" target="ASFFez9ZujurtMkVOaM4-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="645" y="1450" />
+              <mxPoint x="434" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-28" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;mainNavigator&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="1280" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-31" value="main" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="1020" width="40" height="20" as="geometry" />
@@ -139,6 +147,89 @@
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-46" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;onBoardingModalNavigator&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;/** on boarding modal */&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #267f99;&quot;&gt;onBoardingModalNavigator&lt;/span&gt; = &lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;(&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #795e26;&quot;&gt;getSpecificRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;onBoarding&#39;&lt;/span&gt;, [&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;TaxResidencyScreen&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;ResidenceAddressScreen&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;UploadProofScreen&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;PersonalInfo&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;OccupationAndIncome&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;SetupQuestionnaire&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;InvestorProof&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  ]),&lt;/div&gt;&lt;div&gt;  {&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #001080;&quot;&gt;headerMode&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;none&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  }&lt;/div&gt;&lt;div&gt;);&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;arcSize=27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="248" y="1109" width="226" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-59" target="ASFFez9ZujurtMkVOaM4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-49" target="ASFFez9ZujurtMkVOaM4-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-49" target="ASFFez9ZujurtMkVOaM4-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-49" target="ASFFez9ZujurtMkVOaM4-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-49" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;mainTabNavigator&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;createBottomTabNavigator&lt;/font&gt;(&lt;span style=&quot;color: #0070c1;&quot;&gt;bottomRoutes&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-51" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #001080;&quot;&gt;mainTabs&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="495" y="1490" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-52" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;mainModalNavigator&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #267f99;&quot;&gt;mainModalNavigator&lt;/span&gt; = &lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;(&lt;/div&gt;&lt;div&gt;  {&lt;/div&gt;&lt;div&gt;    ...&lt;span style=&quot;color: #795e26;&quot;&gt;getSpecificRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;commonUI&#39;&lt;/span&gt;, [&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;Details&#39;&lt;/span&gt;, &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;FlatList&#39;&lt;/span&gt;]),&lt;/div&gt;&lt;div&gt;    ...&lt;span style=&quot;color: #795e26;&quot;&gt;getSpecificRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;invest&#39;&lt;/span&gt;, [&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;PdfView&#39;&lt;/span&gt;, &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;DepositFundScreen&#39;&lt;/span&gt;, &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;OrderEditScreen&#39;&lt;/span&gt;, &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;OrderDeclarationScreen&#39;&lt;/span&gt;]),&lt;/div&gt;&lt;div&gt;    ...&lt;span style=&quot;color: #795e26;&quot;&gt;getSpecificRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;plan&#39;&lt;/span&gt;, [&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;LiabilityFormScreen&#39;&lt;/span&gt;]),&lt;/div&gt;&lt;div&gt;    ...&lt;span style=&quot;color: #795e26;&quot;&gt;getSpecificRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;performance&#39;&lt;/span&gt;, [&lt;/div&gt;&lt;div&gt;      &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;PortfolioManagementMyCashesScreen&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;      &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;SelectFundsScreen&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;      &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;SearchFundSwitch&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;    ])&lt;/div&gt;&lt;div&gt;  },&lt;/div&gt;&lt;div&gt;  {&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #001080;&quot;&gt;headerMode&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;none&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  }&lt;/div&gt;&lt;div&gt;);&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="1580" width="120" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-54" target="ASFFez9ZujurtMkVOaM4-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-54" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #001080;&quot;&gt;mainModal&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1050" y="1510" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-28" target="ASFFez9ZujurtMkVOaM4-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="1340" as="sourcePoint" />
+            <mxPoint x="740" y="1560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645" y="1450" />
+              <mxPoint x="1090" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-57" value="HomeStack&lt;br&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;(&lt;span style=&quot;color: #795e26;&quot;&gt;getRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;home&#39;&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-50" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-59" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Home&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="1590" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-49" target="ASFFez9ZujurtMkVOaM4-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434" y="1630" as="sourcePoint" />
+            <mxPoint x="434" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-61" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;PerformanceStack&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;createStackNavigator&lt;/span&gt;(&lt;span style=&quot;color: #795e26;&quot;&gt;getRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;performance&#39;&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-63" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Performance&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="85" y="1780" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-64" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;InvestStack&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;(&lt;span style=&quot;color: #795e26;&quot;&gt;getRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;invest&#39;&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="585" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-67" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Invest&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="615" y="1650" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-68" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;PlanStack&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;createStackNavigator&lt;/span&gt;(&lt;span style=&quot;color: #795e26;&quot;&gt;getRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;plan&#39;&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-70" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Plan&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="1900" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-73" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Me&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="424" y="1714" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-71" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;MeStack&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;createStackNavigator&lt;/span&gt;(&lt;span style=&quot;color: #795e26;&quot;&gt;getRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;me&#39;&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-49" target="ASFFez9ZujurtMkVOaM4-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434" y="1630" as="sourcePoint" />
+            <mxPoint x="434" y="1990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="1660" />
+              <mxPoint x="460" y="1660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
