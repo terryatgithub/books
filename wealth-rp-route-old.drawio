@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T03:50:36.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="uZoBkCDQzfB7Z42uNHPf" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T03:53:01.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="VRjO-6kCKaPU4cvX6rIU" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2603" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2800" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -81,7 +81,7 @@
         <mxCell id="ASFFez9ZujurtMkVOaM4-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-30" target="ASFFez9ZujurtMkVOaM4-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ASFFez9ZujurtMkVOaM4-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-20" target="ASFFez9ZujurtMkVOaM4-28">
+        <mxCell id="ASFFez9ZujurtMkVOaM4-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-31" target="ASFFez9ZujurtMkVOaM4-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-20" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #0070c1;&quot;&gt;BoardingNavigator&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;createAppContainer&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;createAnimatedSwitchNavigator&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -98,7 +98,7 @@
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-48" value="&lt;div style=&quot;color: rgb(0, 0, 0); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #001080;&quot;&gt;onBoardingModal&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#3333FF;" vertex="1" connectable="0" parent="ASFFez9ZujurtMkVOaM4-47">
           <mxGeometry x="-0.4412" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-25" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;onBoardingNavigator&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -115,9 +115,6 @@
         <mxCell id="ASFFez9ZujurtMkVOaM4-28" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;mainNavigator&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="1280" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ASFFez9ZujurtMkVOaM4-31" value="main" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="1020" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-30" value="onBorading" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="680" width="80" height="20" as="geometry" />
         </mxCell>
@@ -128,25 +125,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-37" value="entranceNavigator&lt;br&gt;&lt;br&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #267f99;&quot;&gt;entranceNavigator&lt;/span&gt; = &lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;(&lt;span style=&quot;color: #795e26;&quot;&gt;getRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;entrance&#39;&lt;/span&gt;), {&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #001080;&quot;&gt;headerMode&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;none&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;});&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="980" width="120" height="270" as="geometry" />
+          <mxGeometry x="800" y="770" width="120" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-39" value="CommonUIStack&lt;br&gt;&lt;br&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #267f99;&quot;&gt;CommonUIStack&lt;/span&gt; = &lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;(&lt;span style=&quot;color: #795e26;&quot;&gt;getRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;commonUI&#39;&lt;/span&gt;), {&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #001080;&quot;&gt;headerMode&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;none&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #795e26;&quot;&gt;navigationOptions&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;:&lt;/span&gt; ({ &lt;span style=&quot;color: #001080;&quot;&gt;navigation&lt;/span&gt; }) &lt;span style=&quot;color: #0000ff;&quot;&gt;=&amp;gt;&lt;/span&gt; {&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #0000ff;&quot;&gt;let&lt;/span&gt; &lt;span style=&quot;color: #001080;&quot;&gt;tabBarVisible&lt;/span&gt; = &lt;span style=&quot;color: #0000ff;&quot;&gt;true&lt;/span&gt;;&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #af00db;&quot;&gt;if&lt;/span&gt; (&lt;span style=&quot;color: #001080;&quot;&gt;navigation&lt;/span&gt;.&lt;span style=&quot;color: #001080;&quot;&gt;state&lt;/span&gt;.&lt;span style=&quot;color: #001080;&quot;&gt;index&lt;/span&gt; &amp;gt; &lt;span style=&quot;color: #098658;&quot;&gt;0&lt;/span&gt;) {&lt;/div&gt;&lt;div&gt;      &lt;span style=&quot;color: #001080;&quot;&gt;tabBarVisible&lt;/span&gt; = &lt;span style=&quot;color: #0000ff;&quot;&gt;false&lt;/span&gt;;&lt;/div&gt;&lt;div&gt;    }&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #af00db;&quot;&gt;return&lt;/span&gt; {&lt;/div&gt;&lt;div&gt;      &lt;span style=&quot;color: #001080;&quot;&gt;tabBarVisible&lt;/span&gt;&lt;/div&gt;&lt;div&gt;    };&lt;/div&gt;&lt;div&gt;  },&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #001080;&quot;&gt;initialRouteName&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;CommonUI&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;});&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1230" y="970" width="120" height="310" as="geometry" />
+          <mxGeometry x="1230" y="760" width="120" height="310" as="geometry" />
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-41" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;entrance&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#3333FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="827" y="910" width="70" height="20" as="geometry" />
+          <mxGeometry x="827" y="710" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-42" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;commonUI&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3333FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1250" y="880" width="80" height="30" as="geometry" />
+          <mxGeometry x="1250" y="710" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-43" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;onBoardingMainNavigator&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #267f99;&quot;&gt;onBoardingMainNavigator&lt;/span&gt; = &lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;(&lt;span style=&quot;color: #795e26;&quot;&gt;getRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;onBoarding&#39;&lt;/span&gt;), {&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #001080;&quot;&gt;headerMode&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;none&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;});&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-390" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-45" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #001080;&quot;&gt;onBoardingMain&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#3333FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-400" y="830" width="120" height="20" as="geometry" />
+          <mxGeometry x="-190" y="830" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-46" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;onBoardingModalNavigator&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;/** on boarding modal */&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #267f99;&quot;&gt;onBoardingModalNavigator&lt;/span&gt; = &lt;font color=&quot;#ff0000&quot;&gt;createStackNavigator&lt;/font&gt;(&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #795e26;&quot;&gt;getSpecificRouteConfigs&lt;/span&gt;(&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;onBoarding&#39;&lt;/span&gt;, [&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;TaxResidencyScreen&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;ResidenceAddressScreen&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;UploadProofScreen&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;PersonalInfo&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;OccupationAndIncome&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;SetupQuestionnaire&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;InvestorProof&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  ]),&lt;/div&gt;&lt;div&gt;  {&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #001080;&quot;&gt;headerMode&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #a31515;&quot;&gt;&#39;none&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  }&lt;/div&gt;&lt;div&gt;);&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;arcSize=27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="248" y="1109" width="226" height="60" as="geometry" />
+          <mxGeometry x="260" y="1050" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ASFFez9ZujurtMkVOaM4-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-59" target="ASFFez9ZujurtMkVOaM4-57">
           <mxGeometry relative="1" as="geometry" />
@@ -229,6 +226,15 @@
               <mxPoint x="460" y="1660" />
               <mxPoint x="460" y="1660" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-31" value="main" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="625" y="1020" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASFFez9ZujurtMkVOaM4-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASFFez9ZujurtMkVOaM4-20" target="ASFFez9ZujurtMkVOaM4-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="560" as="sourcePoint" />
+            <mxPoint x="645" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
