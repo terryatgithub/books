@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T01:24:32.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="Vp4rvEGj2s7cFenueGaS" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T01:28:59.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="l7U-5EPXbZR0nVDY3pQb" version="20.0.1" type="github">
   <diagram id="U4CRXdSrVp32AQLuLO-R" name="Page-1">
     <mxGraphModel dx="1209" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,11 +37,58 @@
         <mxCell id="UnK_xTmOptzVjHZMryua-8" value="OnBoarding&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#19FF4F;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-10" target="UnK_xTmOptzVjHZMryua-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-10" target="UnK_xTmOptzVjHZMryua-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="550" />
+              <mxPoint x="680" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UnK_xTmOptzVjHZMryua-10" value="App&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnK_xTmOptzVjHZMryua-12" value="Modal&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-14" target="UnK_xTmOptzVjHZMryua-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-14" target="UnK_xTmOptzVjHZMryua-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-14" target="UnK_xTmOptzVjHZMryua-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-14" target="UnK_xTmOptzVjHZMryua-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-14" target="UnK_xTmOptzVjHZMryua-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-14" value="Main&lt;br&gt;&lt;font color=&quot;#00cc00&quot;&gt;TabNavigator&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-16" value="Home&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-19" value="Performance&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-21" value="Invest&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-23" value="Plan&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-25" value="Me&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-27" value="CommonUI&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
