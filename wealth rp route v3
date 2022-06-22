@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T07:33:51.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="8318ikYzvjFbXR6t6Pfj" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T14:44:50.244Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="w4seTZXLxon6GO2lqgKL" version="20.0.1" type="github">
   <diagram id="U4CRXdSrVp32AQLuLO-R" name="Page-1">
-    <mxGraphModel dx="1756" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2166" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,13 +25,13 @@
         <mxCell id="UnK_xTmOptzVjHZMryua-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#19FF4F;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-4" target="UnK_xTmOptzVjHZMryua-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-4" value="&lt;font color=&quot;#19ff4f&quot;&gt;Main&lt;br&gt;SwitchNavigator&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-4" value="&lt;font color=&quot;#19ff4f&quot;&gt;MainSwitch&lt;br&gt;SwitchNavigator&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-6" value="Entrance&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-6" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;EntranceStack&lt;/span&gt;&lt;/div&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-8" value="onBoarding&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-8" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;OnBoardingStack&lt;/span&gt;&lt;/div&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-150" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnK_xTmOptzVjHZMryua-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#19FF4F;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-10" target="UnK_xTmOptzVjHZMryua-14">
@@ -57,10 +57,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-10" value="main&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-10" value="MainStack&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-12" value="Modal&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-12" value="ModalStack&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnK_xTmOptzVjHZMryua-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-14" target="UnK_xTmOptzVjHZMryua-16">
@@ -78,25 +78,25 @@
         <mxCell id="UnK_xTmOptzVjHZMryua-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-14" target="UnK_xTmOptzVjHZMryua-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-14" value="mainTabs&lt;br&gt;&lt;font color=&quot;#00cc00&quot;&gt;TabNavigator&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-14" value="MainBottomTab&lt;br&gt;&lt;font color=&quot;#00cc00&quot;&gt;TabNavigator&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-16" value="Home&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="UnK_xTmOptzVjHZMryua-16" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;Home&lt;/span&gt;&lt;/div&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-19" value="Performance&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-19" value="&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;Performance&lt;br&gt;&lt;/span&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-21" value="Invest&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-21" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;Invest&lt;/span&gt;&lt;/div&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-23" value="Plan&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-23" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;Plan&lt;/span&gt;&lt;/div&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-25" value="Me&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-25" value="&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;Me&lt;br&gt;&lt;/span&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-27" value="commonUI&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-27" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;CommonUIStack&lt;/span&gt;&lt;/div&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnK_xTmOptzVjHZMryua-33" value="&lt;span style=&quot;box-sizing: border-box; color: rgb(57, 58, 52); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.2px; text-align: start; background-color: rgb(246, 248, 250);&quot; class=&quot;token plain&quot;&gt;use navigation&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(57, 58, 52); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.2px; text-align: start; background-color: rgb(246, 248, 250);&quot; class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.2px; text-align: start; background-color: rgb(246, 248, 250); color: rgb(215, 58, 73);&quot; class=&quot;token method function property-access&quot;&gt;reset to wipe the &lt;br&gt;navigator state before go to home&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#00CC00;" vertex="1" parent="1">
