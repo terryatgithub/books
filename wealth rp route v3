@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T01:19:54.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" version="20.0.1" etag="n3jahl6xscyEaGPPD55j" type="github"><diagram id="U4CRXdSrVp32AQLuLO-R">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-22T01:24:32.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="Vp4rvEGj2s7cFenueGaS" version="20.0.1" type="github">
+  <diagram id="U4CRXdSrVp32AQLuLO-R" name="Page-1">
+    <mxGraphModel dx="1209" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UnK_xTmOptzVjHZMryua-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-1" target="UnK_xTmOptzVjHZMryua-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-1" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;App&lt;br&gt;&lt;br&gt;createAppContainer&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;gradientColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="365" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-2" target="UnK_xTmOptzVjHZMryua-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#19FF4F;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-2" target="UnK_xTmOptzVjHZMryua-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-2" value="RootStackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-4" target="UnK_xTmOptzVjHZMryua-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-4" target="UnK_xTmOptzVjHZMryua-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#19FF4F;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-4" target="UnK_xTmOptzVjHZMryua-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-4" value="&lt;font color=&quot;#19ff4f&quot;&gt;SwitchNavigator&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-6" value="Entrance&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-8" value="OnBoarding&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-10" value="App&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnK_xTmOptzVjHZMryua-12" value="Modal&lt;br&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
