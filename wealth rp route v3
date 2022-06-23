@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T07:45:57.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="FTkYPdZYEJRowo1Usz1o" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T07:46:16.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="leB88ZCYBWgQ_TqgafMA" version="20.0.1" type="github">
   <diagram id="U4CRXdSrVp32AQLuLO-R" name="Page-1">
     <mxGraphModel dx="2166" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="UnK_xTmOptzVjHZMryua-61" value="Invest" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-57">
           <mxGeometry y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-69" value="*1: 默认所有Navigator route name 带后缀, 比如 Home Stack Navigator的route name为: HomeStack&lt;br&gt;*2. 默认所有Screen route name 不带后缀, 比如 HomeScreen 默认route name为 Home." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-69" value="*1: 默认所有Navigator route name 带后缀, 比如 Home Stack Navigator的route name为: HomeStack&lt;br&gt;*2. 默认所有Screen route name 不带后缀, 比如 HomeScreen 的route name为 Home." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="-10" y="880" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
