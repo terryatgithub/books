@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T07:05:08.931Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="5SkHbv-HByc4zBNIxTQB" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T07:06:10.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="GcpCQcGagHhOHIr_QQq2" version="20.0.1" type="github">
   <diagram id="U4CRXdSrVp32AQLuLO-R" name="Page-1">
     <mxGraphModel dx="2166" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
         <mxCell id="UnK_xTmOptzVjHZMryua-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-23" target="UnK_xTmOptzVjHZMryua-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-23" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;Plan&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; background-color: rgb(255, 255, 255);&quot;&gt;Stack&lt;br&gt;&lt;/span&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-23" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;PlanStack&lt;/span&gt;&lt;/div&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnK_xTmOptzVjHZMryua-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnK_xTmOptzVjHZMryua-25" target="UnK_xTmOptzVjHZMryua-48">
@@ -147,7 +147,7 @@
         <mxCell id="UnK_xTmOptzVjHZMryua-45" value="Home" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-42">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-46" value="Home" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-42">
+        <mxCell id="UnK_xTmOptzVjHZMryua-46" value="Performance" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-42">
           <mxGeometry y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnK_xTmOptzVjHZMryua-47" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -162,7 +162,7 @@
         <mxCell id="UnK_xTmOptzVjHZMryua-50" value="Home" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-47">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-51" value="Home" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-47">
+        <mxCell id="UnK_xTmOptzVjHZMryua-51" value="Me" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-47">
           <mxGeometry y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnK_xTmOptzVjHZMryua-52" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -177,7 +177,7 @@
         <mxCell id="UnK_xTmOptzVjHZMryua-55" value="Home" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-52">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-56" value="Home" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-52">
+        <mxCell id="UnK_xTmOptzVjHZMryua-56" value="Plan" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-52">
           <mxGeometry y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnK_xTmOptzVjHZMryua-57" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -192,7 +192,7 @@
         <mxCell id="UnK_xTmOptzVjHZMryua-60" value="Home" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-57">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-61" value="Home" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-57">
+        <mxCell id="UnK_xTmOptzVjHZMryua-61" value="Invest" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" vertex="1" parent="UnK_xTmOptzVjHZMryua-57">
           <mxGeometry y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
