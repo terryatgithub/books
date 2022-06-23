@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T12:29:38.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="BQlFlFhYdi4TbjICOjTp" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T12:29:49.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="B3IZgHdxjM6azmUEKa7H" version="20.0.1" type="github">
   <diagram id="U4CRXdSrVp32AQLuLO-R" name="Page-1">
     <mxGraphModel dx="1864" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="UnK_xTmOptzVjHZMryua-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#19FF4F;" parent="1" source="UnK_xTmOptzVjHZMryua-4" target="UnK_xTmOptzVjHZMryua-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UnK_xTmOptzVjHZMryua-4" value="&lt;font color=&quot;#19ff4f&quot;&gt;MainSwitch&lt;br&gt;SwitchNavigator&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="UnK_xTmOptzVjHZMryua-4" value="MainSwitch&lt;br&gt;&lt;font color=&quot;#19ff4f&quot;&gt;SwitchNavigator&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnK_xTmOptzVjHZMryua-6" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;AuthStack&lt;/span&gt;&lt;/div&gt;StackNavigator" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;gradientColor=none;labelBackgroundColor=#000000;" parent="1" vertex="1">
