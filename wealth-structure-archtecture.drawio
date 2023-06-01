@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T05:37:13.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" version="21.2.9" etag="B9Lb5945aLzLEZcTCK9j" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T05:37:23.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="FsIyreYKdDzouIs5aMle" version="21.2.9" type="github">
   <diagram name="Page-1" id="qvWOBKpRafZ84ikwdgw9">
-    <mxGraphModel>
+    <mxGraphModel dx="337" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-1" value="business logic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="770" width="610" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-2" value="infrastructure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="897.5" y="960" width="715" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-3" value="Presentation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="534" width="590" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-4" value="date.ts" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1210" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-5" value="ui-configuration" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="970" y="780" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-6" value="screens" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="970" y="550" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-7" value="components" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="548" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-8" value="i18n-js.ts" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="995" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-9" value="setCountry/Language" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="780" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-10" value="封装功能层面的原子操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-11" value="封装业务层面的原子操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="825" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-12" value="axios" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1025" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-13" value="@apollo/client" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1065" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ga5zxgK31dcnc-E-5GbG-15" target="Ga5zxgK31dcnc-E-5GbG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-15" value="global variables&lt;br&gt;(global-helpers.ts)" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1025" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-16" value="endpoints url in use&lt;br&gt;(config)" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1075" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-17" value="file-pick" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="780" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-18" value="navigation" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="548" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-19" value="style/theme" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="970" y="611" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-20" value="global state" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="982.5" width="150" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-21" value="network" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="982.5" width="150" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ga5zxgK31dcnc-E-5GbG-1" target="Ga5zxgK31dcnc-E-5GbG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="1060" as="sourcePoint" />
+            <mxPoint x="1550" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ga5zxgK31dcnc-E-5GbG-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ga5zxgK31dcnc-E-5GbG-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1265" y="920" as="sourcePoint" />
+            <mxPoint x="1250" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
