@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T09:32:58.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.41" etag="M6ItlHzAD4ZcQiSI-vwL" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T09:40:09.706Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.41" etag="3CXMjShfN68JUc_ct4Ih" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2448" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,20 +264,6 @@
         <mxCell id="10_Lg96hf6qFXdTvXQzm-120" value="7.&lt;br&gt;PR to uat" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=#d5aaaa;" connectable="0" vertex="1" parent="10_Lg96hf6qFXdTvXQzm-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="10_Lg96hf6qFXdTvXQzm-123" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10_Lg96hf6qFXdTvXQzm-111" target="10_Lg96hf6qFXdTvXQzm-112">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="1409" as="sourcePoint" />
-            <mxPoint x="460" y="1409" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="1569" />
-              <mxPoint x="420" y="1569" />
-              <mxPoint x="750" y="1569" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="10_Lg96hf6qFXdTvXQzm-124" value="13. &lt;br&gt;merge to" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="10_Lg96hf6qFXdTvXQzm-123">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="10_Lg96hf6qFXdTvXQzm-125" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10_Lg96hf6qFXdTvXQzm-110" target="10_Lg96hf6qFXdTvXQzm-112">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="1409" as="sourcePoint" />
@@ -298,7 +284,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="10_Lg96hf6qFXdTvXQzm-132" value="15.&lt;br&gt;PR to sg-uat" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=#d5aaaa;" connectable="0" vertex="1" parent="10_Lg96hf6qFXdTvXQzm-131">
+        <mxCell id="10_Lg96hf6qFXdTvXQzm-132" value="14.&lt;br&gt;PR to sg-uat" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=#d5aaaa;" connectable="0" vertex="1" parent="10_Lg96hf6qFXdTvXQzm-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="10_Lg96hf6qFXdTvXQzm-133" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10_Lg96hf6qFXdTvXQzm-112" target="10_Lg96hf6qFXdTvXQzm-112">
@@ -312,7 +298,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="10_Lg96hf6qFXdTvXQzm-134" value="14. update version num" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="10_Lg96hf6qFXdTvXQzm-133">
+        <mxCell id="10_Lg96hf6qFXdTvXQzm-134" value="13. update version num" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="10_Lg96hf6qFXdTvXQzm-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="10_Lg96hf6qFXdTvXQzm-135" value="wealth-sdk uat release flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -341,7 +327,7 @@
             <mxPoint x="440" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10_Lg96hf6qFXdTvXQzm-143" value="5. &lt;br&gt;merge to uat-tmp" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="10_Lg96hf6qFXdTvXQzm-142">
+        <mxCell id="10_Lg96hf6qFXdTvXQzm-143" value="5. &lt;br&gt;merge to" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="10_Lg96hf6qFXdTvXQzm-142">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
@@ -408,6 +394,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="10_Lg96hf6qFXdTvXQzm-160" value="* 1. 所有提交到UAT的bugfix 要同时更新到对应sit分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-5" y="1568" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
